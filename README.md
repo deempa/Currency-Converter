@@ -1,6 +1,7 @@
 # Currency Converter Software
 
 Currency Converter Software using Python3 and (tkinter & customtkinter)
+Using API of Currency Exchange rates.
 
 ## Screenshots
 
