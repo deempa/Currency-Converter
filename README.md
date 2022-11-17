@@ -5,5 +5,5 @@ Using API of Currency Exchange rates.
 
 ## Screenshots
 
-![image](https://user-images.githubusercontent.com/62642034/202573988-dddd4b39-2d8a-470b-b624-da4334bbbadc.png)
+![image](https://user-images.githubusercontent.com/62642034/202574079-18cf4c8e-d679-4fd6-be1b-27d316f866ed.png)
 
